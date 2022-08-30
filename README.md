@@ -1,4 +1,4 @@
-### Hi there 👋,
+### Hi there 👋
 
 🏡 <a href="https://aesmith.dev/">https://aesmith.dev/</a>
 
