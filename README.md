@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-🏡 <a href="https://aesmith.dev/">https://aesmith.dev/</a>
-
 <a href="https://www.linkedin.com/in/andrewevansmith/">
   <img src="https://img.shields.io/badge/LinkedIn-Andrew Evan Smith-blue?logo=linkedin&style=social">
 </a>
