@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hi there 👋,
 
-<!--
-**andrewevansmith/andrewevansmith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏡 <a href="https://aesmith.dev/">https://aesmith.dev/</a>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/andrewevansmith/">
+  <img src="https://img.shields.io/badge/LinkedIn-Andrew Evan Smith-blue?logo=linkedin&style=social">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<hr>
+
+Developer, designer, dad. 
+
+#### Details
+
+- 🧑‍💻 CTO @ <a href="https://actionvfx.com">ActionVFX</a>
+- 💬 Ask me about entry-level software & QA opportunties
+- 📚 Currently studying blockchain and agile leadership
+- ❤️ Main hobbies: table tennis, crypto trading, reading
+- 🙂 Pronouns: he/him
